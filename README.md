@@ -7,7 +7,9 @@
 * Visit Student's User Account Page (which provides their last login and device usage for Canvas).
 * See Faculty's Journal Entries about their Student History in Canvas.
 * The ability to Directly Message the Student through Canvas.   
-You will need to download the DashyEngine1.0.xlsx
+
+> You will need to download the https://github.com/professordiehl/Dashy-1.0/blob/master/DashyEngine1.0.xlsx file.  Click the link and View Raw to download the Dashy Engine 1.0 Excel Workbook.
+
 ## What is Student Retention?
 > Student retention can be anything from counselors reaching out to students who are performing poorly, to schools using data to proactively identify students who are at-risk of dropping out of school.
 
