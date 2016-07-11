@@ -1,5 +1,5 @@
 ## What is Dashy?
-> Dashy is a customized, in-house developed solution to improve Student Retention.   Dashy contains individual Discussion Panels separated by Grade Level, International, and Online Students to provide a comprehensive dashboard for evaluating student academic performance.  
+> Dashy is a customized, in-house developed solution to improve Student Retention for Canvas LMS.   Dashy contains individual Pages separated by Grade Level to provide a comprehensive dashboard for evaluating student academic performance.  
 
 **Dashy contains tools that allow school administration and staff to:**
 
