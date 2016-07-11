@@ -7,7 +7,7 @@
 * Visit Student's User Account Page (which provides their last login and device usage for Canvas).
 * See Faculty's Journal Entries about their Student History in Canvas.
 * The ability to Directly Message the Student through Canvas.   
-
+You will need to download the DashyEngine1.0.xlsx
 ## What is Student Retention?
 > Student retention can be anything from counselors reaching out to students who are performing poorly, to schools using data to proactively identify students who are at-risk of dropping out of school.
 
