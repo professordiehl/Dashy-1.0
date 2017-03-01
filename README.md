@@ -1,6 +1,6 @@
 ## What is Dashy?
 > Dashy is a customized, in-house developed solution to improve Student Retention for Canvas LMS.   Dashy contains individual Pages separated by Grade Level to provide a comprehensive dashboard for evaluating student academic performance.  
-> You can see a working example of Dashy 1.0 by going to the Canavs Demo - https://canvas.instructure.com/courses/1045739
+> You can see a working example of Dashy 1.0 by going to the Canvas Demo - https://canvas.instructure.com/courses/1045739
 
 **Dashy contains tools that allow school administration and staff to:**
 
